@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51540246292",
+    "project_id": "news-trial-dc40a",
+    "storage_bucket": "news-trial-dc40a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51540246292:android:811bc741e59c189e808c01",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51540246292-61v502677h5sk1b22sbs77lstb11cssp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaUF3v-HEfPzgIu7PEM52_FfLitjPoM9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51540246292-61v502677h5sk1b22sbs77lstb11cssp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
