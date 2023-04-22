@@ -1,8 +1,12 @@
 news trial flutter project.
 i have used the following libraries:
+
 flutter_core ( flutter firebase integration)
+
 firebase_auth ( email-password authentication )
+
 http ( API integration in the news page )
+
 google_sign_in (sign in using google )
 flutter_facebook_auth ( authentication using facebook ) 
 material ( implimenting flutter material design )
