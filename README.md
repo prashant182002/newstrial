@@ -1,16 +1,12 @@
-# untitled
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+news trial flutter project.
+i have used the following libraries:
+flutter_core ( flutter firebase integration)
+firebase_auth ( email-password authentication )
+http ( API integration in the news page )
+google_sign_in (sign in using google )
+flutter_facebook_auth ( authentication using facebook ) 
+material ( implimenting flutter material design )
+convert ( decoding json of API )
+frame work used here is flutter.
+Link of the video showing the workinh of the Application.
+https://drive.google.com/file/d/1Xwx99UTEasK00E8f2FNyaVP7K9bpN-hE/view?usp=share_link
